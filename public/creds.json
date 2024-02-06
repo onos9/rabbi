@@ -1,0 +1,20 @@
+[
+    {
+        "username": "admin",
+        "password": "admin",
+        "host": "localhost",
+        "port": 8080
+    },
+    {
+        "username": "dan",
+        "password": "admin",
+        "host": "localhost",
+        "port": 8081
+    },
+    {
+        "username": "soma",
+        "password": "admin",
+        "host": "localhost",
+        "port": 8082
+    }
+]
